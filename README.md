@@ -2,7 +2,7 @@
 
 Course Final Project on Facial Emotion Recognition using the fer2013 dataset
 
-** Contribution Table **
+## Contribution Table
 
 | Contribution by Group members | Score    |
 | ----------------------------- | -------- |
